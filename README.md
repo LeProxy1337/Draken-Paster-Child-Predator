@@ -2,7 +2,7 @@
 **Draken** is a **child predator**, and a **skid**. He claims he has self-coded his cheat **Samsung** when it is a vase paste, and the KM which is the only semi-coded part of his cheat which was done by soar.
 
 **• paster proof**  
-Their driver is a PEAuth paste, and it touches to disk  
+their driver is a PEAuth paste, and it touches to disk  
 
 **registery:** \Registry\Machine\SYSTEM\ResourceManager\Registrars\   
 **root kit:** \\.\vdrvroot  
@@ -37,7 +37,8 @@ https://youtu.be/d-s7gDkJ3xQ
 # **draken saying that *"love doesn't have an age"* when he's a 20yr trying to get with an 16yr **
 ![image](https://github.com/DevProxy1336/Draken-Patser-Child-Predator/assets/137983215/03d65808-5be5-4370-bf72-4be9b145f7e1)
 
-# **draken trying to trade **CP** for my fortnite external, with proof from mecury which was their. (blurred out all children, sorry for making you see this)**
+
+# **draken trying to trade CP for my fortnite external, with proof from mecury which was their. (blurred out all children, sorry for making you see this)**
 ![image](https://github.com/DevProxy1336/Draken-Patser-Child-Predator/assets/137983215/6c384bbe-f6c4-4c48-91e8-0e2b5a003be8)  
 ![image](https://github.com/DevProxy1336/Draken-Patser-Child-Predator/assets/137983215/b222594b-60a0-4573-b852-34dc0eb5e273)  
 ![image](https://github.com/DevProxy1336/Draken-Patser-Child-Predator/assets/137983215/6f54fc40-7c18-4179-a58a-748bb55bc359)  
@@ -45,6 +46,7 @@ https://youtu.be/d-s7gDkJ3xQ
 ![image](https://github.com/DevProxy1336/Draken-Patser-Child-Predator/assets/137983215/9a71872d-9387-480b-b2cc-af3f53b5345c)  
 ![image](https://github.com/DevProxy1336/Draken-Patser-Child-Predator/assets/137983215/f2eb41f3-0ca7-4763-9da9-e6965ca1d947)  
 ![image](https://github.com/DevProxy1336/Draken-Patser-Child-Predator/assets/137983215/12f8a7d3-5148-410a-b150-fe8b96308d1d)  
+
 
 # **icing on top, drakens 20yr face**
 ![image](https://github.com/DevProxy1336/Draken-Patser-Child-Predator/assets/137983215/447df4e9-62f9-4710-af7a-a4d8d21280a0)  
