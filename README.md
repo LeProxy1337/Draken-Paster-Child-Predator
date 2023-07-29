@@ -34,7 +34,6 @@ https://youtu.be/d-s7gDkJ3xQ
 
 
 **• child predator proof**  
-
 # **draken saying that *"love doesn't have an age"* when he's a 20yr trying to get with an 16yr **
 ![image](https://github.com/DevProxy1336/Draken-Patser-Child-Predator/assets/137983215/03d65808-5be5-4370-bf72-4be9b145f7e1)
 
