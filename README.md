@@ -1,5 +1,6 @@
 # Draken-Paster-Child-Predator
-**Draken** is a **child predator**, and a **skid**. He claims he has self-coded his cheat **Samsung** when it is a vase paste, and the KM which is the only semi-coded part of his cheat which was done by soar. This fight was started from him being weird and leaking my four month old source, and saying he ran me. I didn't care about what he was into for a long time but he has started acting more cringe so I decided this should be public 
+**Draken** is a **child predator**, and a **skid**. He claims he has self-coded his cheat **Samsung** when it is a vase paste, and the KM which is the only semi-coded part of his cheat which was done by soar. This fight was started from him being weird and leaking my four month old source, and saying he ran me. I didn't care about what he was into for a long time but he has started acting more cringe so I decided this should be public  
+
 **discord tag:** .draken1337  
 **discord id:** 1100423410028384277  
 
