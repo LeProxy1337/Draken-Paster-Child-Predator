@@ -2,14 +2,12 @@
 **Draken** is a **child predator**, and a **skid**. He claims he has self-coded his cheat **Samsung** when it is a vase paste, and the KM which is the only semi-coded part of his cheat which was done by soar. This fight was started from him being weird and leaking my four month old source, and saying he ran me. I didn't care about what he was into for a long time but he has started acting more cringe so I decided this should be public 
 
 **• paster proof**  
-their driver is a PEAuth paste
-
+their driver is a PEAuth Paste
 **registery:** \Registry\Machine\SYSTEM\ResourceManager\Registrars\   
-**root kit:** \\.\vdrvroot  
-**location** C:\Windows\soarwazhere.soar
-
-![image](https://github.com/DevProxy1336/Draken-Paster-Child-Predator/assets/137983215/422872e0-f1c2-44b2-b523-91009baa8c64)  
-![image](https://github.com/DevProxy1336/Draken-Paster-Child-Predator/assets/137983215/5a2076dd-c525-4f3e-bd4d-255dc6e0c977)  
+**location** C:\Windows\soarwazhere.soar  
+**driver handle:** \\.\vdrvroot  
+![image](https://github.com/DevProxy1336/Draken-Paster-Child-Predator/assets/137983215/64eda834-e4b1-42c0-8d5a-c1cf2de0ad47)   
+![image](https://github.com/DevProxy1336/Draken-Paster-Child-Predator/assets/137983215/aef9f030-065c-4fd5-8153-9753f25c8a10)  
 
 They say their using a **modified** keyauth version when all of their app information is unencrypted
 app name: PixalSpoofer  
