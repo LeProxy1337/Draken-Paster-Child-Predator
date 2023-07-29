@@ -29,7 +29,7 @@ using **win imports** for function spoofing even though they still make detectab
 ![image](https://github.com/DevProxy1336/Draken-Patser-Child-Predator/assets/137983215/1b69977d-90eb-4e1b-a84f-43cf19b74b4b)
 
 
-Made a video on how to samsung cheats auth (keyauth), All you need is IDA and Cheat Engine, The rest is in the video. This can be used on any KeyAuth Loader  
+video on how to bypass samsung cheats keyauth loader, all you need is IDA and Cheat Engine, and the rest is in the video. This can be used on any C++ KeyAuth Loader  
 https://youtu.be/d-s7gDkJ3xQ
 
 
@@ -38,7 +38,7 @@ https://youtu.be/d-s7gDkJ3xQ
 ![image](https://github.com/DevProxy1336/Draken-Patser-Child-Predator/assets/137983215/03d65808-5be5-4370-bf72-4be9b145f7e1)
 
 
-# draken trying to trade CP for my fortnite external, with proof from mecury which was their. (blurred out all children, sorry for making you see this)
+# draken trying to trade CP for my fortnite external, with proof from mecury when he was in call. (blurred out all the children, sorry for making you see this)
 ![image](https://github.com/DevProxy1336/Draken-Patser-Child-Predator/assets/137983215/6c384bbe-f6c4-4c48-91e8-0e2b5a003be8)  
 ![image](https://github.com/DevProxy1336/Draken-Patser-Child-Predator/assets/137983215/b222594b-60a0-4573-b852-34dc0eb5e273)  
 ![image](https://github.com/DevProxy1336/Draken-Patser-Child-Predator/assets/137983215/6f54fc40-7c18-4179-a58a-748bb55bc359)  
