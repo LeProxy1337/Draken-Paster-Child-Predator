@@ -32,6 +32,7 @@ using **win imports** for function spoofing even though they still make detectab
 Made a video on how to samsung cheats auth (keyauth), All you need is IDA and Cheat Engine, The rest is in the video. This can be used on any KeyAuth Loader  
 https://youtu.be/d-s7gDkJ3xQ
 
+
 **• child predator proof**  
 
 # **draken saying that *"love doesn't have an age"* when he's a 20yr trying to get with an 16yr **
