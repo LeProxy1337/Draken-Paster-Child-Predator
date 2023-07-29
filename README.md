@@ -20,12 +20,12 @@ version: https://keyauth.win/api/1.2/
 POV: using **IsDebuggerPresent** for debugger protection   
 ![image](https://github.com/DevProxy1336/Draken-Patser-Child-Predator/assets/137983215/92fcd211-49a3-46f7-aea7-b88cee0daf6f)
 
-using **win imports** for function spoofing even though they still make detectable system calls to kernel  
+using **win imports** for function spoofing even though they still make EAC detectable system calls to kernel  
 ![image](https://github.com/DevProxy1336/Draken-Patser-Child-Predator/assets/137983215/ec9f5cb4-f793-46f1-89d8-58ea31b4f3a2)
 
 
 
-**unencrypted** menu strings, for **proof**  
+**unencrypted** menu strings, **for proof**  
 ![image](https://github.com/DevProxy1336/Draken-Patser-Child-Predator/assets/137983215/1b69977d-90eb-4e1b-a84f-43cf19b74b4b)
 
 
@@ -44,7 +44,6 @@ https://youtu.be/d-s7gDkJ3xQ
 ![image](https://github.com/DevProxy1336/Draken-Patser-Child-Predator/assets/137983215/6f54fc40-7c18-4179-a58a-748bb55bc359)  
 ![image](https://github.com/DevProxy1336/Draken-Patser-Child-Predator/assets/137983215/c2005db6-8a41-46a9-87b4-699c061e2218)  
 ![image](https://github.com/DevProxy1336/Draken-Patser-Child-Predator/assets/137983215/9a71872d-9387-480b-b2cc-af3f53b5345c)  
-![image](https://github.com/DevProxy1336/Draken-Patser-Child-Predator/assets/137983215/f2eb41f3-0ca7-4763-9da9-e6965ca1d947)  
 ![image](https://github.com/DevProxy1336/Draken-Patser-Child-Predator/assets/137983215/12f8a7d3-5148-410a-b150-fe8b96308d1d)  
 
 
