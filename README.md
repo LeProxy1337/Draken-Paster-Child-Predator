@@ -11,7 +11,7 @@ their driver is a PEAuth paste
 ![image](https://github.com/DevProxy1336/Draken-Paster-Child-Predator/assets/137983215/422872e0-f1c2-44b2-b523-91009baa8c64)  
 ![image](https://github.com/DevProxy1336/Draken-Paster-Child-Predator/assets/137983215/5a2076dd-c525-4f3e-bd4d-255dc6e0c977)  
 
-They say their using a **modified** keyauth version when I decrypted all of their information   
+They say their using a **modified** keyauth version when all of their app information is unencrypted
 app name: PixalSpoofer  
 owner id: RAVsVxYVUg  
 secret: baa03bdf65df55ed5c36d9c5c0724b0bdb9daa73b2e96f3286c7fe6829338a2a  
