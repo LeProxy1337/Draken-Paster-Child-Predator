@@ -6,6 +6,7 @@ their driver is a PEAuth paste
 
 **registery:** \Registry\Machine\SYSTEM\ResourceManager\Registrars\   
 **root kit:** \\.\vdrvroot  
+**location** C:\Windows\soarwazhere.soar
 
 ![image](https://github.com/DevProxy1336/Draken-Patser-Child-Predator/assets/137983215/053b4418-70d8-4d5e-8a0c-2a821f7019cb)
 
