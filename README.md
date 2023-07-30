@@ -8,7 +8,7 @@ discord id: 1100423410028384277
 their driver is a PEAuth Paste  
 **registery:** \Registry\Machine\SYSTEM\ResourceManager\Registrars\   
 **location** C:\Windows\soarwazhere.soar  
-**driver handle:** \\.\vdrvroot  
+**driver handle:** \\\\.\\vdrvroot  
 ![image](https://github.com/DevProxy1336/Draken-Paster-Child-Predator/assets/137983215/64eda834-e4b1-42c0-8d5a-c1cf2de0ad47)   
 ![image](https://github.com/DevProxy1336/Draken-Paster-Child-Predator/assets/137983215/aef9f030-065c-4fd5-8153-9753f25c8a10)  
 
